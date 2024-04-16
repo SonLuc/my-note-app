@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "love"
+  ],
+  "rules": {
+    "padded-blocks": "off",
+    "@typescript-eslint/strict-boolean-expressions":"off",
+    "@typescript-eslint/no-floating-promises":"off",
+    "@typescript-eslint/no-unsafe-argument": "off",
+    "@typescript-eslint/no-misused-promises":"off",
+    "@typescript-eslint/no-extraneous-class": "off",
+    "no-trailing-spaces": "off",
+    "no-multiple-empty-lines": "off",
+    "@typescript-eslint/explicit-function-return-type": "off"
+  }
+}
